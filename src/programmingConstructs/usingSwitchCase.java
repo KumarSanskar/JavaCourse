@@ -3,6 +3,9 @@ package programmingConstructs;
 import java.util.Scanner;
 
 public class usingSwitchCase {
+    /*
+     *here we enter a day number and by using switch case statement we return the corresponding day name.
+     */
     public static void main(String[] args) {
         System.out.println("Please enter a day number from week: ");
         Scanner scanner = new Scanner(System.in);
