@@ -1,4 +1,4 @@
-package printingToConsoleOutput;
+package takingInput;
 
 public class usingCommandLineArguments {
     /*
