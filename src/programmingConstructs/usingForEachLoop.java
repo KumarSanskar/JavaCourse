@@ -6,7 +6,7 @@ public class usingForEachLoop {
     /*
      *this is a special type of for each loop; used for iterating through each element of array or collections
      * can only be used for reading the data not writing
-     * it's considered to be ore easier than for loop
+     * it's considered to be more easier than for loop
      */
 
     public static void main(String[] args) {
