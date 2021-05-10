@@ -17,6 +17,10 @@ public class usingForEachLoop {
         for (int number : numbersList) {
             sumOfNumbers += number;
         }
+        
+        /**
+        Also wriiten as : numbersList.forEach(e -> sumOfNumbers + e);
+        **/
         System.out.println("Sum of numbers = " + sumOfNumbers);
     }
 }
