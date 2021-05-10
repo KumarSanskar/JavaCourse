@@ -1,6 +1,6 @@
 package printingToConsoleOutput;
 
-public class usingPrintf {
+public class UsingPrintf {
     public static void main(String[] args) {
 
         /*here we declare two variables studentName in String data-type and presentAge in int .

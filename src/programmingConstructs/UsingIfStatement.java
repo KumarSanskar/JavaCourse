@@ -1,6 +1,6 @@
 package programmingConstructs;
 
-public class usingIfStatement {
+public class UsingIfStatement {
     public static void main(String[] args) {
         // here we demonstrate using the if statement in a program.
 

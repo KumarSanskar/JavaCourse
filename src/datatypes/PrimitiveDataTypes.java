@@ -1,6 +1,6 @@
 package datatypes;
 
-public class primitiveDataTypes {
+public class PrimitiveDataTypes {
     public static void main(String[] args) {
         /*
          * these set of statements will list all the data types their size in bits, bytes and their range.

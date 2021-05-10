@@ -2,7 +2,7 @@ package programmingConstructs;
 
 import java.util.Scanner;
 
-public class usingDoWhileLoop {
+public class UsingDoWhileLoop {
     /*
      *here we use do while loop to add user input numbers till zero is input by user.
      */

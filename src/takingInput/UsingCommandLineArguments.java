@@ -1,6 +1,6 @@
 package takingInput;
 
-public class usingCommandLineArguments {
+public class UsingCommandLineArguments {
     /*
      *here we show the use of command line arguments in java
      *

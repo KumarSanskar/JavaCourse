@@ -2,7 +2,7 @@ package programmingConstructs;
 
 import java.util.Arrays;
 
-public class usingForEachLoop {
+public class UsingForEachLoop {
     /*
      *this is a special type of for each loop; used for iterating through each element of array or collections
      * can only be used for reading the data not writing
