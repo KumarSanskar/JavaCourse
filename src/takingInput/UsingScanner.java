@@ -8,7 +8,7 @@ public class UsingScanner {
      */
     public static void main(String[] args) {
         System.out.println("Enter your name: ");
-        Scanner scannerObject = new Scanner(System.in);
+        java.util.Scanner scannerObject = new java.util.Scanner(System.in);
         String inputName = scannerObject.nextLine();
 
         System.out.println("The name is: " + inputName);
