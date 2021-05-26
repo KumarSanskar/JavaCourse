@@ -2,7 +2,7 @@ package programmingConstructs;
 
 import java.util.Scanner;
 
-public class usingIfElseifElseStatement {
+public class UsingIfElseifElseStatement {
     /*
      *here we check that whether a number is positive, negative or equal to zero.
      */

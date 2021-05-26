@@ -1,6 +1,6 @@
 package programmingConstructs;
 
-public class usingWhileLoop {
+public class UsingWhileLoop {
     /*
      *her ewe use while loop to print squares of number from 1 to 100.
      */

@@ -2,7 +2,7 @@ package takingInput;
 
 import java.util.Scanner;
 
-public class usingScanner {
+public class UsingScanner {
     /*
      *here we demonstrate how to take input from user by Scanner class and print output.
      */

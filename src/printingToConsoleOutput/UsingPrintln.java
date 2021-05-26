@@ -7,7 +7,7 @@
 
 package printingToConsoleOutput;
 
-public class usingPrintln {
+public class UsingPrintln {
     public static void main(String[] args) {
         int ageOfPatient = 45;
         String nameOfPatient = "Arun";

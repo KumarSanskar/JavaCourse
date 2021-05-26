@@ -2,7 +2,7 @@ package programmingConstructs;
 
 import java.util.Scanner;
 
-public class usingIfElseStatement {
+public class UsingIfElseStatement {
     /*
      * here we make a simple program which checks for the number to be even or odd using if else block.
      */

@@ -2,7 +2,7 @@ package programmingConstructs;
 
 import java.util.Scanner;
 
-public class usingForLoop {
+public class UsingForLoop {
     public static int NUMBER_ITERATIONS = 5;
 
     /*
